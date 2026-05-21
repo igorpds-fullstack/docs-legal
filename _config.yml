@@ -1,0 +1,6 @@
+title: Docs Legal
+description: Documentação e arquivos legais
+theme: jekyll-theme-cayman
+markdown: kramdown
+include:
+  - Mironga
