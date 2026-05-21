@@ -15,3 +15,4 @@ title: Docs Legal
 - [Play Store content](Mironga/toca/play-store-content.html)
 - [Privacy Policy](Mironga/toca/privacy-policy.html)
 - [Terms of Use](Mironga/toca/terms-of-use.html)
+- [Account Deletion](Mironga/toca/account-deletion.html)
